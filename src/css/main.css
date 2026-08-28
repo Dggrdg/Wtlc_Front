@@ -1,5 +1,13 @@
 /* Login css */
 
 .login {
-    height: 100vh;
+    height: 100%
+}
+
+.login .background {
+    background-color: rgb(0, 110, 255);
+}
+
+.login .btn {
+    width: 100px;
 }
